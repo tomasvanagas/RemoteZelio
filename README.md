@@ -11,7 +11,7 @@ This project is intended to hold relay closed until python program decides to st
 4). Run main.py
 
 ## Any questions?
-Leave an github issue or reach me via email.
+Leave a github issue or reach me via email.
 
 ## Zelio program
 
