@@ -1,4 +1,4 @@
-# Remotely control Zelio relay
+# Remotely control your Zelio relay
 Relay can be controlled from any computer running python in LOCAL NETWORK (not recommend using this on public networks because of security reasons). 
 
  ## About this project
