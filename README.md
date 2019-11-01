@@ -1,5 +1,5 @@
 # Remotely control Zelio relay
-Relay can be controlled from any computer running python in LOCAL NETWORK (not recommend using this on public networks becouse of security reasons). 
+Relay can be controlled from any computer running python in LOCAL NETWORK (not recommend using this on public networks because of security reasons). 
 
  ## About this project
 This project is intended to hold relay closed until python program decides to stop it OR network has stopped functioning. If the relay can't communicate with the server zelio relay will release the output.
