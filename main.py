@@ -2,7 +2,7 @@ from pymodbus.client.sync import ModbusTcpClient
 import time
 import datetime
 
-ipAddress = '172.16.0.190'
+ipAddress = '<your ip address>'
 
 
 client = ModbusTcpClient(ipAddress)
